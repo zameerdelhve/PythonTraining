@@ -1,4 +1,4 @@
-list_of_numbers = [10,1,2,3,4,40,40,60,80,50]
+list_of_numbers = [10,1,2,100,80,890,80]
 count = 0
 max_number = 0
 for number in list_of_numbers:
