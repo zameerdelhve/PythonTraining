@@ -10,5 +10,8 @@ class Person:
 
 person = Person("Zameer", "Delhve")
 person.talk()
+
+person1 = Person("Alifya", "Faizee")
+person1.talk()
 #print(person.First_Name + ' ' + person.Last_Name)
 
